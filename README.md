@@ -1,6 +1,8 @@
 # Hi 👋 I'm Abdul Karim
 
-Mobile Application Developer with 4+ years of experience designing, building, and scaling high-performance Android and Flutter applications. Proven ability to deliver production-ready mobile solutions used by large user bases while maintaining high standards for performance, reliability, and maintainability.
+Mobile Application Developer with 4+ years of experience designing, developing, and scaling high-quality Android and Flutter applications in production environments. Proven expertise in building scalable, maintainable, and performance-optimized mobile solutions with a strong emphasis on clean architecture and engineering best practices.
+
+Experienced in delivering full lifecycle mobile products, improving application stability and performance, and collaborating with cross-functional teams to transform complex business requirements into reliable, user-focused solutions that create measurable impact.
 
 ## Specialties
 - Clean Architecture, multi-module, performance optimization, and building maintainable mobile systems.
@@ -8,7 +10,7 @@ Mobile Application Developer with 4+ years of experience designing, building, an
 ## Skills
 - Java, Kotlin, Dart.
 - Android & Ios App Development(Native & Flutter).
-- Clean architecture, MVVM, MVP, Hilt, SOLID Principles, Multi-module architecture.
+- Clean architecture, MVVM, MVI, Hilt, SOLID Principles, Multi-module architecture.
 - Navigation, Room, View-Binding, Kotlin Coroutines, Work-Manager.
 - Retrofit, Okhttp3, Picasso, GSON.
 - Google Map, Place API, Direction API.
@@ -17,8 +19,9 @@ Mobile Application Developer with 4+ years of experience designing, building, an
 - Android Service, Broadcast receiver, Notification.
 - Code Obfuscation using Proguard and R8.
 - Flutter, Bloc, Provider, http, getIt, Stream.
-- Unit Testing
+- Unit testing, Integration testing, TDD, Test automation.
 - Figma, Git, Click up.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkarim41&layout=compact)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=abdulkarim41)
