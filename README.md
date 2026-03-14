@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Abdul Karim
 
-<!--
-**abdulkarim41/abdulkarim41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer with 4+ years of experience building scalable mobile applications using Kotlin, Jetpack libraries, and modern Android architecture.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📱 Android Developer
+- 💼 3+ years industry experience
+- 🧠 Interested in Clean Architecture, Modularization, and Performance
+- 🌱 Currently learning advanced Android testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Kotlin
+- Jetpack Compose
+- Android Architecture Components
+- Dagger/Hilt
+- Retrofit / OkHttp
+- Coroutines / Flow
+- Unit Testing
+
+## 📌 Featured Projects
+
+### 🔹 Android Testing Playground
+Android project demonstrating testing strategies.
+
+Tech:
+Kotlin, Retrofit, Coroutines, JUnit, Mockito
+
+### 🔹 Modular Android App
+Example multi-module architecture.
+
+Tech:
+Clean Architecture, Navigation Component, Hilt
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
