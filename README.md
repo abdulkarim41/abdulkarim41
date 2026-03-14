@@ -22,6 +22,6 @@ Experienced in delivering full lifecycle mobile products, improving application 
 - Unit testing, Integration testing, TDD, Test automation.
 - Figma, Git, Click up.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkarim41&layout=compact)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulkarim41&theme=github-compact)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=abdulkarim41)
